@@ -37,22 +37,22 @@ const projectList = [
     url: "https://major-project-1a9o.onrender.com/listings",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tech Form Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A tech form is a structured document used to collect and organize technical information. It typically includes fields for specifications, requirements, and details about a technology or product. ",
+    url: "https://github.com/suraj3641/Tech-Form",
   },
   {
-    title: "My Resume Site",
+    title: "Expense Tracker App",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/suraj3641/Expense_Tracker_App",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Simon Games",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This game is very usefull of mind. Using  Javasript ,html and css.",
+    url: "https://github.com/suraj3641/Simon_Games",
   },
 ];
 
