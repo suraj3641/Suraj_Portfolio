@@ -1,21 +1,6 @@
-/**
- * About component
- *
- * Space for you to describe more about yourself.
- */
 
 import React from "react";
 
-/**
- * About background image
- *
- * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
- * represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a image you
- * freely use on your site.
- */
 import image from "../images/motion-background-img.jpg";
 
 const imageAltText = "purple and blue abstract background";
