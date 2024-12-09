@@ -1,0 +1,35 @@
+[
+    {
+      "key": 1,
+      "title": "Travel Quest Application",
+      "imageSrc": "https://img.freepik.com/free-photo/hotel-nevada-usa_1268-14393.jpg?t=st=1733729920~exp=1733733520~hmac=7e8512d0d7a4ca7bc90976aec6e137cea98501fe94190df9e47ebe0c08b8ad96&w=740",
+      "description": "It is a rental accomodation project made with complete MERN Stack.",
+      "demo": "https://major-project-1a9o.onrender.com/listings",
+      "source": "https://github.com/suraj3641/Travel_Quest_App"
+    },
+    {
+      "key": 2,
+      "title": "Ecommerce Website",
+      "imageSrc": "https://img.freepik.com/free-photo/network-connection-graphic-overlay-billboard-wall_53876-122588.jpg?t=st=1733729564~exp=1733733164~hmac=71fdf401f5d6ac7fa436a6cb5ff93dedded41dfc03048f5480c845f7f110374e&w=826",
+      "description": "This is a ecommerce project made with complete React.js .",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/suraj3641/Ecommerce-Website"
+    },
+    {
+      "key": 3,
+      "title": "Simen Game",
+      "imageSrc": "https://img.freepik.com/premium-photo/3d-illustration-word-games-gold-connected-computer-mouse_190619-760.jpg?w=740",
+      "description": "I developed this game Html ,css ,javascript. it useful for Mind.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/suraj3641/Simon_Games"
+    },
+    {
+      "key": 4,
+      "title": "Expense Tracker App",
+      "imageSrc": "https://img.freepik.com/premium-photo/income-expenses-rotary-knob-glowing-words-3d-illustration_764664-46313.jpg?w=740",
+      "description": "This is a project made with complete React.js .",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/suraj3641/Expense_Tracker_App"
+    }
+  ]
+  

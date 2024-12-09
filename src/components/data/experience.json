@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "role": "Full Stack web Development Internship ",
+      "organisation": " iHUB DivyaSampark @ IIT Roorkee with Diginique TechLabs ",
+      "startDate": "July, 2024",
+      "endDate": "to August, 2024",
+      "location": "|| Online",
+      "experiences": [
+        "During the internship Worked on MERN technology  ",
+        "Worked with the Diginique TechLabs Bard Team"
+      ],
+      "imageSrc": "company/Dignique.png"
+    },
+    {
+      "id": 2,
+      "role": "Machine Learning Internship",
+      "organisation": "Feynn Labs",
+      "startDate": "8 July, 2024",
+      "endDate": "to 8 September, 2024",
+      "location": "|| Online",
+      "experiences": [
+        "During the internship I worked on following project -",
+        "1. AI Product/Service Prototyping.",
+        "2. Market Segmentation using Machine Learning and data analysis.",
+        "3. AI Product/Service Business and Financial Modelling."
+      ],
+      "imageSrc": "company/feynn.png"
+    }
+    
+  ]
+  
