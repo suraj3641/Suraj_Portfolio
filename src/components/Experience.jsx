@@ -4,8 +4,8 @@ import experience from "./data/experience.json";
 const Experience = () => {
   return (
     <>
-      <div className="container ex skills" id="experience">
-        <h1 className="text-center">EXPERIENCE</h1>
+      <div className="container ex skills " id="experience">
+        <h1 className="text-center mt-5">EXPERIENCE</h1>
         {experience.map((data) => {
           return (
             <div
@@ -14,7 +14,7 @@ const Experience = () => {
               data-aos="zoom-in"
               data-aos-duration="1000"
             >
-              <div className="col-12 col-md-4 mb-4">
+              <div className="col-12 col-md-4 mb-4 ">
                 <div className="left">
                   <img
                     src={`/assets/${data.imageSrc}`}

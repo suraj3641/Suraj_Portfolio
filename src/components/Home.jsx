@@ -16,10 +16,9 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to my profile",
-        "My Name is SURAJ MAURYA",
-        "I'm Full Stack Developer",
-        " And MACHINE LEARNING ",
+        "Welcome to my profile || My name is SURAJ MAURYA",
+        "I'm a Full Stack Developer , but not bound to only a specific technology also explore about Machine Learning.",
+        "",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -35,8 +34,8 @@ const Home = () => {
 
   return (
     <>
-      <div className="container home skills" id="home">
-      <div className="right ">
+      <div className="container home skills mb-5" id="home">
+      <div className="right mb-5 ">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
@@ -44,7 +43,7 @@ const Home = () => {
         <br></br>
         <br></br>
         <div className="left " data-aos="fade-up-right" data-aos-duration="1000">
-          <h1 ref={typedRef}></h1>
+          <h3 ref={typedRef}></h3>
 
           <a
             href={pdf}
@@ -54,7 +53,7 @@ const Home = () => {
             Download Resume
           </a>
            <div
-                    className="contact-icon-home"
+                    className="contact-icon-home "
                     data-aos="zoom-in-up"
                     data-aos-duration="1000"
                   >

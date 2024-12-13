@@ -1,6 +1,4 @@
 import React from "react";
-import { FaInstagram } from "react-icons/fa";
-import { CiFacebook } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { FaGithubSquare } from "react-icons/fa";
