@@ -67,8 +67,8 @@ a {
 }
 
 .home .right .img img {
-  height: 370px;
-  width: 370px;
+  height: 300px;
+  width: 300px;
   border: 5px solid yellow;
   border-radius: 100%;
   animation-name: superman;

@@ -35,7 +35,7 @@ const Home = () => {
   return (
     <>
       <div className="container home skills mb-5" id="home">
-      <div className="right mb-5 ">
+      <div className="right  ">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
@@ -43,7 +43,7 @@ const Home = () => {
         <br></br>
         <br></br>
         <div className="left " data-aos="fade-up-right" data-aos-duration="1000">
-          <h3 ref={typedRef}></h3>
+          <h1 ref={typedRef}></h1>
 
           <a
             href={pdf}
