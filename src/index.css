@@ -23,7 +23,7 @@ a {
 }
 
 .nav_bar .nav_items {
-  padding: 16px;
+  padding: 12px;
   font-size: 1.2rem;
   font-weight: bold;
 }
@@ -40,12 +40,13 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-bottom: 30px;
   
 }
 
 .home .left {
   background-color: var(--bg-color);
-  width: 620px;
+  width: 720px;
   text-align: center;
   padding: 30px;
   border-radius: 10px;
@@ -58,6 +59,8 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 100%;
+  height: auto;
   /* background-color: yellow; */
   /* height: 350px;
   width: 350px; */
@@ -107,7 +110,7 @@ a {
 /* Experience Section */
 
 .ex {
-  width: 1050px;
+  width: 900px;
 }
 
 .ex-items {
@@ -127,6 +130,10 @@ a {
 
 .skills {
   width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .skills .items {
@@ -156,13 +163,42 @@ a {
 
 /* Contact */
 
+.contact-icon-home {
+  /* height: 30vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.contact-icon-home .items{
+  background-color: black;
+  margin: 10px;
+  height: 70px;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  border: 2px solid yellow;
+}
+
+.contact-icon-home .items .icons {
+  font-size: 2rem;
+}
+.contact-icon-home .items:hover {
+  background-color: var(--bg-color);
+  box-shadow: var(--box-shadow);
+}
+
+
+
 .contact-icon {
-  height: 30vh;
+  height: 15vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .contact-icon .items {
   background-color: black;
   margin: 10px;
@@ -183,3 +219,4 @@ a {
 .contact-icon .items .icons {
   font-size: 2rem;
 }
+

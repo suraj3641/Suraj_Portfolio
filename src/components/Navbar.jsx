@@ -1,14 +1,16 @@
 import React from "react";
 
+
+
 const Navbar = () => {
   return (
     <>
-      <div className="container nav_bar"
+      <div className="container nav_bar  "
       data-aos="fade-down"
       data-aos-duration="1000" 
       >
-        <div className="left nav_items">Portfolio</div>
-        <div className="right">
+        <div className="left nav_items text-sm-start text-md-center text-lg-end  ">Portfolio</div>
+        <div className="right ">
           <a href="#home" className="nav_items">
             Home
           </a>
